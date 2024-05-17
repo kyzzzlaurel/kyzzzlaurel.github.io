@@ -6,6 +6,7 @@
     "theme_color": "red",
     "background_color": "blue",
     "description": "HILLU",
+    "serviceworker": "serviceworker.js",
     "icons": [
       {
         "src": "images/play_store_512.png",
